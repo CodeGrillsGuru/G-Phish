@@ -11,7 +11,10 @@ $ cd G-Phish
  
 $ chmod +x *
 
+$ unzip website.zip
+
 $ bash G-Phish.sh
+
 
 
 This tool is only for Educational purposes only
