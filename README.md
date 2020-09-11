@@ -15,6 +15,7 @@ $ unzip website.zip
 
 $ bash G-Phish.sh  (dont use ./ Use bash)
 
+Must turn on Hotspot of mobile
 
 
 This tool is only for Educational purposes only
