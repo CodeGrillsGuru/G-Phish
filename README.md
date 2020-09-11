@@ -3,7 +3,7 @@ Best tool for Phishing
 More than 30+ tools avialble
 
 
-                    COMMANDS 👇
+             COMMANDS 👇
 
 $ git clone https://github.com/gurugrover/G-Phish
 
