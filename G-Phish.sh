@@ -14,7 +14,7 @@ printf " \e[33;92m  ██║   ██║╚════╝██╔═══╝
 printf " \e[33;92m  ╚██████╔╝      ██║     ██║  ██║██║███████║██║  ██║   \e[0m\n"
 printf " \e[33;92m   ╚═════╝       ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝   \e[0m\n"
 printf " \n"
-printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;19m Tool Created by GuruGrover (GuruGroverTech)\e[0m\n"
+printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;44m Tool Created by GuruGrover (GuruGroverTech)\e[0m\n"
 printf " \n"
 printf " \e[36;1m.:.Select Any Attack for your Victim.:.\e[0m\n"
 printf " \n"
