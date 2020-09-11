@@ -13,7 +13,7 @@ $ chmod +x *
 
 $ unzip website.zip
 
-$ bash G-Phish.sh
+$ bash G-Phish.sh  (dont use ./ Use bash)
 
 
 
