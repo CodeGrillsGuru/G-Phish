@@ -1,4 +1,4 @@
-# G-Phish (Guru Grover TECH)
+# G-Phish 
 Best tool for Phishing 
 More than 30+ tools avialble
 
