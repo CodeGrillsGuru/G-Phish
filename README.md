@@ -2,7 +2,8 @@
 Best tool for Phishing 
 More than 30+ tools avialble
 
-               COMMANDS 👇
+
+                    COMMANDS 👇
 
 $ git clone https://github.com/gurugrover/G-Phish
 
@@ -11,4 +12,8 @@ $ cd G-Phish
 $ chmod +x *
 
 $ bash G-Phish.sh
+
+
+This tool is only for Educational purposes only
+
 
